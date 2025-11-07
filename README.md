@@ -8,6 +8,12 @@ Este repositório descreve o passo a passo para executar localmente e expor publ
   
 ---
 
+
+📝 **Observação**
+Provavelmente esqueci algum comando ou configuração, irei editar este arquivo quando tentar fazer outro deploy futuramente.
+
+---
+
 ## ⚙️ 1. Instalar dependências no Ubuntu
 
 ```bash
@@ -201,4 +207,6 @@ Acesse:
 Agora seu app estará disponível publicamente em:
 👉 **https://seu-endereco-frontend.trycloudflare.com**
 
----
+<p align="center">
+  <img src="./img/Caverna.png" alt="Visualização da aplicação Caverna" width="100%"/>
+</p>
